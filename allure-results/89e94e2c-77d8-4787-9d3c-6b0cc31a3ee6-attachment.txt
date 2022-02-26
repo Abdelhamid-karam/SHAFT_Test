@@ -1,0 +1,6 @@
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220226-160605", Target File: "\1645884401119_afterMethod.gif"]. @26-02-2022 16:06:41.0230 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Sign out]. @26-02-2022 16:06:45.0378 PM
+[ReportManager] Successfully created attachment [Video Recording - afterMethod] @26-02-2022 16:06:49.0936 PM
+[ReportManager] Browser Action [CloseCurrentWindow] successfully performed. @26-02-2022 16:06:50.0100 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - CloseCurrentWindow - Actual Value] @26-02-2022 16:06:50.0102 PM
+[ReportManager] Successfully created attachment [Animated Gif - afterMethod] @26-02-2022 16:06:50.0118 PM

@@ -1,0 +1,29 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[signUp.SignUpGui.submitSignUpSuccessfully]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220226-160605", Target File: "\1645884385597_submitSignUpSuccessfully.gif"]. @26-02-2022 16:06:25.0677 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Mr.]. @26-02-2022 16:06:26.0598 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [AFAQY]. @26-02-2022 16:06:27.0241 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Test]. @26-02-2022 16:06:27.0983 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [;pJW?jQ(+]]. @26-02-2022 16:06:28.0638 PM
+[ReportManager] Element Action [TypeAppend] successfully performed. With the following test data [1]. @26-02-2022 16:06:29.0059 PM
+[ReportManager] Element Action [TypeAppend] successfully performed. With the following test data [January ]. @26-02-2022 16:06:29.0524 PM
+[ReportManager] Element Action [TypeAppend] successfully performed. With the following test data [2020]. @26-02-2022 16:06:30.0044 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [By.id: uniform-newsletter]. @26-02-2022 16:06:31.0025 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [By.id: uniform-optin]. @26-02-2022 16:06:32.0049 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [AFAQY]. @26-02-2022 16:06:32.0668 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Test]. @26-02-2022 16:06:33.0365 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [AFAQY]. @26-02-2022 16:06:33.0981 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Al maadi]. @26-02-2022 16:06:34.0571 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Cairo]. @26-02-2022 16:06:35.0222 PM
+[ReportManager] Element Action [TypeAppend] successfully performed. With the following test data [United States]. @26-02-2022 16:06:35.0659 PM
+[ReportManager] Element Action [TypeAppend] successfully performed. With the following test data [Alabama]. @26-02-2022 16:06:36.0141 PM
+[ReportManager] Element Action [TypeAppend] successfully performed. With the following test data [20000]. @26-02-2022 16:06:36.0678 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [1]. @26-02-2022 16:06:37.0285 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Alis@AFAQY.com]. @26-02-2022 16:06:37.0893 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Register]. @26-02-2022 16:06:40.0664 PM
+[ReportManager] Verification Passed: Then I Verify that [http://automationpractice.com/index.php?controller=my-account] equals [http://automationpractice.com/index.php?controller=my-account], ignoring case sensitivity. @26-02-2022 16:06:40.0693 PM
+[ReportManager] Verification [ValidateEquals] PASSED. Expected [http://automationpractice.com/index.php?controller=my-account] and Actual [http://automationpractice.com/index.php?controller=my-account]. Comparison Type [CASE_INSENSITIVE]. Validation Type [POSITIVE]. @26-02-2022 16:06:40.0693 PM
+[ReportManager] Successfully created attachment [Animated Gif - submitSignUpSuccessfully] @26-02-2022 16:06:40.0705 PM

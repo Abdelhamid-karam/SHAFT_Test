@@ -1,0 +1,12 @@
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @26-02-2022 16:06:05.0840 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @26-02-2022 16:06:05.0853 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @26-02-2022 16:06:05.0853 PM
+[ReportManager] Successfully Opened Google Chrome. @26-02-2022 16:06:09.0961 PM
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @26-02-2022 16:06:10.0219 PM
+[ReportManager] Initial URL: [data:,] @26-02-2022 16:06:10.0280 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220226-160605", Target File: "\1645884375874_beforeMethod.gif"]. @26-02-2022 16:06:16.0113 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php]. @26-02-2022 16:06:16.0749 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Sign in]. @26-02-2022 16:06:20.0699 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [mYyFLHfV@AFAQY.com]. @26-02-2022 16:06:21.0533 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Create an account]. @26-02-2022 16:06:22.0786 PM
+[ReportManager] Successfully created attachment [Animated Gif - beforeMethod] @26-02-2022 16:06:22.0954 PM
