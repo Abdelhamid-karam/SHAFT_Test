@@ -1,4 +1,4 @@
-# AFAQY_Test
+# Shaft_Test
 Hello :) !! precontions : 
 - has latest Eclipse compiler with JDK 17 
 - after cloning project u have to force update the project 
